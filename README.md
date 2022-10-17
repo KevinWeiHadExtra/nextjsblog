@@ -2,16 +2,16 @@ A Next.js Blog Template modified to match my interests which include things like
 
 Plans for this application:
 
-Upload the little work I've already done to a new Github Repo
-Add basic Pages for all games(Valorant, Destiny 2, etc.)
-Create an in-depth series of pages applying to the game, whether it be guides, collections, achievements, etc.
-Add mySQL functionality to hold various pieces of information for different games(Destiny 2 weapons, LEague of Legends skins, etc.)
-Add a coming soon page that users can submit their own suggestions of what they want me to cover in the blog.
-Add a comment function on major pages where users can leave their opinions on what I have written of which other users can respond to
-Start on the Anime Section(TBD)
-Add to the About me page
-Clean up code to not include miscellaneous code left over from the starter template
-Add more once more direction is known
+ - Upload the little work I've already done to a new Github Repo
+ - Add basic Pages for all games(Valorant, Destiny 2, etc.)
+ - Create an in-depth series of pages applying to the game, whether it be guides, collections, achievements, etc.
+ - Add mySQL functionality to hold various pieces of information for different games(Destiny 2 weapons, LEague of Legends skins, etc.)
+ - Add a coming soon page that users can submit their own suggestions of what they want me to cover in the blog.
+ - Add a comment function on major pages where users can leave their opinions on what I have written of which other users can respond to
+ - Start on the Anime Section(TBD)
+ - Add to the About me page
+ - Clean up code to not include miscellaneous code left over from the starter template
+ - Add more once more direction is known
 
 All things here are subject to change.
 
